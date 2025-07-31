@@ -1,4 +1,4 @@
-# Censorship on X   (July 2025)
+# Incident #1: Censorship on X   (July 2025)
 
 I think certain topics are being censored on X.  Elon Musk probably doesn't know. I hope this reaches him. I worry there are powerful groups who are able to get an employee or a few at X.
 
@@ -6,9 +6,9 @@ As a CTO/software engineer background, I debug. Here is my analysis. Test --> Re
 
 I want people to focus on Incident #3 first.
 
-* INCIDENT #1: [Possibly Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
-* INCIDENT #2: [Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
-* INCIDENT #3: [Possibly Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
+* INCIDENT #1: [Possibly Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_1.md)
+* INCIDENT #2: [Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_2.md)
+* INCIDENT #3: [Possibly Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_3.md)
 
 # Incident #3
 ## Possibly Censored Surpressed Paid Promoted Post #2
@@ -33,12 +33,17 @@ b) See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/
 
 
 
-THE POST URL: https://x.com/GoingStrategic/status/1948796500760510912
 
-![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
 
 Please email me if there is any help to uncensor my account on X.
 
+
+
+
+The list of incidents:
+* [INCIDENT #1: Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_1.md)
+* [INCIDENT #2: Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_2.md)
+* [INCIDENT #3: Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_3.md)
 
 
 
