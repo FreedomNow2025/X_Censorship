@@ -20,10 +20,21 @@ THE TEST:
 
 
 CENSORSHIP RESULTS:
-a) BEFORE: 100% of the time, when someone HEARTed my post or REPLIED, it appeared in Notifications.
-b) AFTER: about 5% of the time, it appears.  For a while, 0% of the time.
-c) It does post things it wants to push to me. Subscribe-only spaces. "new Pins" others do in groups I'm connected to.
-d) This isn't censorship here. But is a factual thing I could document that linked 1-to-1 when my traffic was cut off (censorship).  This is meant to be debugging information if I could work with a software engineer in X.com to find the database properties that were switched.
+a) This happened exactly July 1st, 2025. You can only see the NIGHT and DAY difference by seeing the BEFORE vs AFTER screenshots below.
+b) BEFORE: 100% of the time, when someone HEARTed my post or REPLIED, it appeared in Notifications.
+c) AFTER: about 5% of the time, it appears.  For a while, 0% of the time.
+d) It does post things it wants to push to me. Subscribe-only spaces. "new Pins" others do in groups I'm connected to.
+e) This isn't censorship here. But is a factual thing I could document that linked 1-to-1 when my traffic was cut off (censorship).  This is meant to be debugging information if I could work with a software engineer in X.com to find the database properties that were switched.
+f) The number of times people would interact with my post drop to very low also. As another aspect of this.
+
+## BEFORE (See people actually responding to me)
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
+
+## AFTER (Now it turns off people's interactions showing here)
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
+
+
+
 
 Catching the censoring person/group in X. The above can help find database values. This can track back to the code linked to this. What database values do they flag on accounts like me, when they shift it into Shadowban censorship mode.
 
