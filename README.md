@@ -33,8 +33,9 @@ b) See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/
 
 
 
-THE POST:
-![The Post](https://x.com/GoingStrategic/status/1948796500760510912)
+THE POST URL: https://x.com/GoingStrategic/status/1948796500760510912
+
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
 
 Please email me if there is any help to uncensor my account on X.
 
