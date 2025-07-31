@@ -10,32 +10,29 @@ I want people to focus on Incident #3 first.
 * INCIDENT #2: [Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
 * INCIDENT #3: [Possibly Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
 
-# Incident #3
-## Possibly Censored Surpressed Paid Promoted Post #2
+# Incident #2
+## When Censorship Turned ON, "Notifications" Changed Behavior
 
-THESIS:
-1) I used to get 34 to 100 views on posts I made on my account. It got reduced to 3 to 7 views, when CENSORSHIP appeared to be TURNED ON.
-2) When I reply to other posts, the censorship is not as bad.
-3) I learned a lot from my Incident #1. This effectively repeated Incident #1's test, but I documented everything very well.
-4) I did my post.  I then $500 Paid Promoted Post. Started July 24th 2025 and lasted 5 days.
-5) I repeated what I did with my Incident #1's test. I had a chain of posts. Nearly all where 140 characters or less (so no overflow). This would help me catch the "top post censorship anomoly" (but that didn't happen in this case.
+THE TEST:
+1) There was a certain date that it appears (shadowban) Censorship turned ON.  The Notifications behaved different AFTER it was ON.
+2) I mainly saw my Views-Per-Post go from 30 to 100 per post, to 3-to-8 per post with Censorship = ON.  There was a date cut off when that happened.
+3) I saw something immediatley change on that date with Notifications.
+
 
 CENSORSHIP RESULTS:
-a) 51 views @ $500 = $10 USD each time a "view" happened. Someone saw it in their stream.  This appears to be censored.
-b) Look at the screenshot below.  X saying "You can reach 100,000 more views, by (paid) Promote Post".
-c) I received only 51 views for my promoted post.  Grok and other searches said it should have been 75,000 views+.
+a) BEFORE: 100% of the time, when someone HEARTed my post or REPLIED, it appeared in Notifications.
+b) AFTER: about 5% of the time, it appears.  For a while, 0% of the time.
+c) It does post things it wants to push to me. Subscribe-only spaces. "new Pins" others do in groups I'm connected to.
+d) This isn't censorship here. But is a factual thing I could document that linked 1-to-1 when my traffic was cut off (censorship).  This is meant to be debugging information if I could work with a software engineer in X.com to find the database properties that were switched.
 
-99.94% censored.  (Should have received 100,000 views ballpark. I got 51 views)
+Catching the censoring person/group in X. The above can help find database values. This can track back to the code linked to this. What database values do they flag on accounts like me, when they shift it into Shadowban censorship mode.
+
 
 DEEPER ANALYSIS:
-a) I view shadowband censorship on my account for normal posts.  Here I'm going $500 out of my way, to do test it for sure.
-b) See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md). That was far worse because when I and others navigated to the $500 paid promoted post, it would HARD HIDE post #1 (in the chain). I got screenshots.  That is hard hiding the post from rendering... at all.
-
+a) See Incidents #1 and #3. The above is mainly a database debugging value that can be used to hunt down the DEV that changed database values when shifting my account into censorship mode.
 
 
 Please email me if there is any help to uncensor my account on X.
-
-
 
 
 The list of incidents:
