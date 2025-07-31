@@ -52,7 +52,7 @@ THE TEST:
 * Carrot/Stick forcing social media companies under DC hat Parlor was told they must use this or lose being in the Apple AppStore. Parlor capitulated (from my understanding)
 * Bellingcat
 
-
+[https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png]
 
 
 
