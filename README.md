@@ -4,9 +4,14 @@ I think certain topics are being censored on X.  Elon Musk probably doesn't know
 
 As a CTO/software engineer background, I debug. Here is my analysis. Test --> Results --> Proof?
 
-* INCIDENT #1: d
-* INCIDENT #2:
-* INCIDENT #3: d
+I want people to focus on Incident #3 first.
+
+* INCIDENT #1: [Possibly Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
+* INCIDENT #2: [Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
+* INCIDENT #3: [Possibly Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
+
+# Incident #3
+## Possibly Censored Surpressed Paid Promoted Post #2
 
 I think certain topics are being censored on X.  Elon Musk probably doesn't know. I hope this reaches him. I worry there are powerful groups who are able to get an employee or a few at Twitter
 
@@ -16,7 +21,7 @@ https://www.youtube.com/watch?v=nFmln08Dq1U
 
 US Censorship Industrial Complex: (Current or historic or side factors):
 * Videos (Must Watch)
-* [List of People](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md)
+* 
 * [List of Organizations](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/Organizations.md)
 * [US Government Organizations](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/US_Gov.md)
 * [EU Government Organizations]()
