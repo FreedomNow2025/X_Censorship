@@ -37,8 +37,12 @@ b) See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/
 
 Please email me if there is any help to uncensor my account on X.
 
+The Post: https://x.com/GoingStrategic/status/1913201784719593526
+Date: April 18th, 2025
 
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
 
+Please email me if there is any help to uncensor my account on X.
 
 The list of incidents:
 * [INCIDENT #1: Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_1.md)
