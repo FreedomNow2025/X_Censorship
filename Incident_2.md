@@ -28,15 +28,10 @@ e) This isn't censorship here. But is a factual thing I could document that link
 f) The number of times people would interact with my post drop to very low also. As another aspect of this.
 
 ## BEFORE (See people actually responding to me)
-![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Before_Censorship.png)
 
 ## AFTER (Now it turns off people's interactions showing here)
-![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
-
-
-
-
-Catching the censoring person/group in X. The above can help find database values. This can track back to the code linked to this. What database values do they flag on accounts like me, when they shift it into Shadowban censorship mode.
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/After_Censorship.png)
 
 
 DEEPER ANALYSIS:
