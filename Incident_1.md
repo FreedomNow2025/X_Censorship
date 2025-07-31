@@ -40,7 +40,9 @@ Please email me if there is any help to uncensor my account on X.
 The Post: https://x.com/GoingStrategic/status/1913201784719593526
 Date: April 18th, 2025
 
-![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
+The fact that the first Post "1/..." in the chain is missing shows the censorship. This URL is for that top post. But the censorship code HARD HIDEs that first post. It's children are visible, but this URL wasn't for the 2nd post.
+
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/X_Censorship_Incident_1_April_18_2025.jpeg)
 
 Please email me if there is any help to uncensor my account on X.
 
