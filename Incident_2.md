@@ -33,12 +33,13 @@ b) See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/
 
 
 
-THE POST URL: https://x.com/GoingStrategic/status/1948796500760510912
-
-![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
-
 Please email me if there is any help to uncensor my account on X.
 
 
 
+
+The list of incidents:
+* [INCIDENT #1: Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_1.md)
+* [INCIDENT #2: Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_2.md)
+* [INCIDENT #3: Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_3.md)
 
