@@ -1,5 +1,14 @@
-# US Censorship Industrial Complex
-Anti-Censorship Holon
+# Censorship on X   (July 2025)
+
+I think certain topics are being censored on X.  Elon Musk probably doesn't know. I hope this reaches him. I worry there are powerful groups who are able to get an employee or a few at X.
+
+As a CTO/software engineer background, I debug. Here is my analysis. Test --> Results --> Proof?
+
+* INCIDENT #1: d
+* INCIDENT #2:
+* INCIDENT #3: d
+
+I think certain topics are being censored on X.  Elon Musk probably doesn't know. I hope this reaches him. I worry there are powerful groups who are able to get an employee or a few at Twitter
 
 We are working to find out if there are any incorrect information. This site is to solicit any corrections if any information is incorrect. Please let me know if anything is incorrect.  
 
