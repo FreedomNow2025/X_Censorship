@@ -16,7 +16,7 @@ a) On my account, people REPLIED. But X blocks me from viewing their replies.
 
 
 
-THE POST URL: https://x.com/GoingStrategic/status/1948796500760510912
+THE POST URL: https://x.com/GoingStrategic/status/1950897150130331737
 
 ![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Incident_4_Censorship.png)
 
