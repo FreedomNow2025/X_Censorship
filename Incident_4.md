@@ -18,7 +18,7 @@ a) On my account, people REPLIED. But X blocks me from viewing their replies.
 
 THE POST URL: https://x.com/GoingStrategic/status/1948796500760510912
 
-![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Post_2025_July_Promoted.png)
+![The Post](https://github.com/FreedomNow2025/X_Censorship/blob/main/other/Incident_4_Censorship.png)
 
 Please email me if there is any help to uncensor my account on X.
 
