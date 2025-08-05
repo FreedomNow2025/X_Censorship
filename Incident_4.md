@@ -11,6 +11,7 @@ THE CENSORSHIP TEST:
 1) When non-censored accounts on "X" have someone REPLY to their post, they can VIEW the replies.
 
 CENSORSHIP RESULTS:
+
 a) On my account, people REPLIED. But X blocks me from viewing their replies.
 
 
