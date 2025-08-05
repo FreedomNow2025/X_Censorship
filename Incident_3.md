@@ -15,15 +15,15 @@ THESIS:
 5) I repeated what I did with my Incident #1's test. I had a chain of posts. Nearly all where 140 characters or less (so no overflow). This would help me catch the "top post censorship anomoly" (but that didn't happen in this case.
 
 CENSORSHIP RESULTS:
-a) 51 views @ $500 = $10 USD each time a "view" happened. Someone saw it in their stream.  This appears to be censored.
-b) Look at the screenshot below.  X saying "You can reach 100,000 more views, by (paid) Promote Post".
-c) I received only 51 views for my promoted post.  Grok and other searches said it should have been 75,000 views+.
+* 51 views @ $500 = $10 USD each time a "view" happened. Someone saw it in their stream.  This appears to be censored.
+* Look at the screenshot below.  X saying "You can reach 100,000 more views, by (paid) Promote Post".
+* I received only 51 views for my promoted post.  Grok and other searches said it should have been 75,000 views+.
 
 99.94% censored.  (Should have received 100,000 views ballpark. I got 51 views)
 
 DEEPER ANALYSIS:
-a) I view shadowband censorship on my account for normal posts.  Here I'm going $500 out of my way, to do test it for sure.
-b) See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md). That was far worse because when I and others navigated to the $500 paid promoted post, it would HARD HIDE post #1 (in the chain). I got screenshots.  That is hard hiding the post from rendering... at all.
+* I view shadowband censorship on my account for normal posts.  Here I'm going $500 out of my way, to do test it for sure.
+* See my [Incident #1](https://github.com/FreedomNow2025/Anti_Censorship_Holon/blob/main/Files/People.md). That was far worse because when I and others navigated to the $500 paid promoted post, it would HARD HIDE post #1 (in the chain). I got screenshots.  That is hard hiding the post from rendering... at all.
 
 
 
