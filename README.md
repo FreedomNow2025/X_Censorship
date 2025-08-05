@@ -9,6 +9,7 @@ I want people to focus on Incident #3 first.
 * INCIDENT #1: [Possibly Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_1.md)
 * INCIDENT #2: [Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_2.md)
 * INCIDENT #3: [Possibly Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_3.md)
+* INCIDENT #4: [Censored Accounts blocked from viewing Replies to their Posts](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
 
 # Incident #3
 ## Possibly Censored Surpressed Paid Promoted Post #2
@@ -46,6 +47,7 @@ The list of incidents:
 * [INCIDENT #1: Censored Surpressed Paid Promoted Post #1](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_1.md)
 * [INCIDENT #2: Notifications Change when in Censored Mode](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_2.md)
 * [INCIDENT #3: Censored Surpressed Paid Promoted Post #2](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_3.md)
+* [INCIDENT #4: Censored Accounts blocked from viewing Replies to their Posts](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
 
 
 
