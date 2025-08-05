@@ -12,8 +12,8 @@ THE CENSORSHIP TEST:
 
 CENSORSHIP RESULTS:
 
-a) On my account, people REPLIED. But X blocks me from viewing their replies.
-b) See below. I can't access the 2 people who replied. I'm locked out of viewing those replies, while the account is in censored mode.
+* On my account, people REPLIED. But X blocks me from viewing their replies.
+* See below. I can't access the 2 people who replied. I'm locked out of viewing those replies, while the account is in censored mode.
 
 
 
