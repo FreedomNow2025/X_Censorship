@@ -17,10 +17,10 @@ THESIS:
 2) When I reply to other posts, the censorship is not as bad.
 
 CENSORSHIP RESULTS:
-a) "Paid Promote" your Post talks about 100,000 for $500.  I found I got far less.  It was about 70 views at the time (somewhat higher after ~150). Instead of ~100,000 (for my $500).
-b) Here is the worst part: They HIDE post #1 in the chain.  This was a HARD HIDE censorship. 
-c) When vieweres viewed it in the thread, it they could see the child posts (/2..., /3....) but not the parent (/1...).
-d) I found even more proof. I had the original URL to the top post (1/...).  When I visited it, it showed it was HARD HIDDEN. See the screenshot below where I captured proof.
+* "Paid Promote" your Post talks about 100,000 for $500.  I found I got far less.  It was about 70 views at the time (somewhat higher after ~150). Instead of ~100,000 (for my $500).
+* Here is the worst part: They HIDE post #1 in the chain.  This was a HARD HIDE censorship. 
+* When vieweres viewed it in the thread, it they could see the child posts (/2..., /3....) but not the parent (/1...).
+* I found even more proof. I had the original URL to the top post (1/...).  When I visited it, it showed it was HARD HIDDEN. See the screenshot below where I captured proof.
 
 99.9% censored.  (Should have received 100,000 views ballpark. I got ~51 views)
 
